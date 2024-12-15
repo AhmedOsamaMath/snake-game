@@ -2,6 +2,11 @@
 
 A modern, feature-rich implementation of the classic Snake game using Pygame, with configurable difficulty levels and smooth gameplay.
 
+![Python Versions](https://img.shields.io/badge/python-3.8+-blue.svg)
+![Pygame](https://img.shields.io/badge/pygame-2.4.0-green.svg)
+![License](https://img.shields.io/badge/license-MIT-yellow.svg)
+![Game Version](https://img.shields.io/badge/version-1.0.0-orange.svg)
+
 ![Screenshot](./screenshot.png)
 
 ## 🎮 Game Features
